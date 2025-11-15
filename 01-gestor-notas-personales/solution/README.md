@@ -13,7 +13,7 @@ Se buscó que el proyecto fuera **autocontenido**, sin relaciones ni DTOs, pero 
 ---
 
 ## Pruebas en POSTMAN
-![Texto alternativo](../assets/loquesea.png)
+![Texto alternativo](../assets/post.png)
 <p align="center"> <img src="./assets/logoo.png" alt="PUT" width="350" /> </p>
 <p align="center"> <img src="./assets/logoo.png" alt="GET" width="350" /> </p>
 <p align="center"> <img src="./assets/logoo.png" alt="GET BY ID" width="350" /> </p>
