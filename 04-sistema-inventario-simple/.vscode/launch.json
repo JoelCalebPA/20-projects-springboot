@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SolutionApplication<com.payoyo-solution>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.payoyo.solution.SolutionApplication",
+            "projectName": "com.payoyo-solution",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
